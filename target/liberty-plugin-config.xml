@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>C:\Users\Lenovo\eclipse-workspace\FIC\target\liberty\wlp</installDirectory>
+    <serverDirectory>C:\Users\Lenovo\eclipse-workspace\FIC\target\liberty\wlp\usr\servers\ServletSampleServer</serverDirectory>
+    <userDirectory>C:\Users\Lenovo\eclipse-workspace\FIC\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>C:\Users\Lenovo\eclipse-workspace\FIC\target\liberty\wlp\usr\servers\ServletSampleServer</serverOutputDirectory>
+    <serverName>ServletSampleServer</serverName>
+    <appsDirectory>dropins</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>ServletSample.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>com.ibm.websphere.appserver.runtime</groupId>
+        <artifactId>wlp-webProfile7</artifactId>
+        <version>17.0.0.1</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\Lenovo\.m2\repository\com\ibm\websphere\appserver\runtime\wlp-webProfile7\17.0.0.1\wlp-webProfile7-17.0.0.1.zip</assemblyArchive>
+    <assemblyInstallDirectory>C:\Users\Lenovo\eclipse-workspace\FIC\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>C:\Users\Lenovo\eclipse-workspace\FIC\target\liberty\wlp\usr\servers\ServletSampleServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+</liberty-plugin-config>

@@ -1,0 +1,13 @@
+Launching ServletSampleServer (WebSphere Application Server 17.0.0.1/wlp-1.0.16.cl170120170227-0220) on Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221-b11 (en_US)
+[AUDIT   ] CWWKE0001I: The server ServletSampleServer has been launched.
+[AUDIT   ] CWWKE0100I: This product is licensed for development, and limited production use. The full license terms can be viewed here: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/license/base_ilan/ilan/17.0.0.1/lafiles/en.html
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications. 
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/ServletSample/
+[AUDIT   ] CWWKZ0001I: Application ServletSample started in 2.893 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [jsp-2.3, ejbLite-3.2, managedBeans-1.0, servlet-3.1, jsf-2.2, beanValidation-1.1, ssl-1.0, jndi-1.0, appSecurity-2.0, jsonp-1.0, jdbc-4.1, jaxrs-2.0, el-3.0, jaxrsClient-2.0, json-1.0, cdi-1.2, distributedMap-1.0, webProfile-7.0, websocket-1.1, jpa-2.1].
+[AUDIT   ] CWWKF0011I: The server ServletSampleServer is ready to run a smarter planet.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Sunday, August 23, 2020 at 8:08 AM. The server ServletSampleServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/ServletSample/
+[AUDIT   ] CWWKZ0009I: The application ServletSample has stopped successfully.
+[AUDIT   ] CWWKE0036I: The server ServletSampleServer stopped after 36.033 seconds.
